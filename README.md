@@ -1,7 +1,8 @@
 # Derechos Humanos de Venezuela en Movimiento
 ## CRISIS POSTELECTORAL Y DE DERECHOS HUMANOS 2024 EN VENEZUELA
 
-**[Descarga el informe]()**
+**[Descarga el informe](https://github.com/DDHH-Vzla/DDHH-Vzla/releases/download/2024-28j/InformeDDHHVzla.pdf)**
+**[Lee el informe](https://github.com/DDHH-Vzla/DDHH-Vzla/blob/main/2024-28j/InformeDDHHVzla.pdf)**
 
 ### Resumen Ejecutivo
 “Crisis postelectoral y de Derechos Humanos 2024 en Venezuela”
@@ -116,7 +117,7 @@ en 1952 para denunciar los excesos del régimen militar de Marcos Pérez Jiméne
 reporte es una continuación de aquellos anhelos de democracia y dignidad”, afirmaron
 los autores.
 
-**Créditos**
+**Créditos:** 
 Este informe fue realizado por Derechos Humanos de Venezuela en Movimient
 
 **Se alienta a su libre difusión**
