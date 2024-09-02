@@ -2,6 +2,7 @@
 # CRISIS POSTELECTORAL Y DE DERECHOS HUMANOS 2024 EN VENEZUELA
 
 **[Descarga el informe](https://github.com/DDHH-Vzla/DDHH-Vzla/releases/download/2024-28j/InformeDDHHVzla.pdf)**
+
 **[Lee el informe](https://github.com/DDHH-Vzla/DDHH-Vzla/blob/main/2024-28j/InformeDDHHVzla.pdf)**
 
 ### Resumen Ejecutivo
