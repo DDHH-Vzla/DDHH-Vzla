@@ -119,6 +119,6 @@ reporte es una continuación de aquellos anhelos de democracia y dignidad”, af
 los autores.
 
 **Créditos:** 
-Este informe fue realizado por Derechos Humanos de Venezuela en Movimient
+Este informe fue realizado por Derechos Humanos de Venezuela en Movimiento
 
 **Se alienta a su libre difusión**
