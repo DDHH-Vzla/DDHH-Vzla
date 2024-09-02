@@ -9,6 +9,7 @@ es un esfuerzo de documentación conjunto, por parte de diferentes ONG
 de ese país, que debido a la intensa situación de represión dentro del país
 se divulga bajo el nombre genérico “Derechos Humanos de Venezuela en
 Movimiento”.
+
 El reporte incluye patrones de violaciones a derechos humanos ocurridos antes, du-
 rante y después de la jornada electoral del 28 de julio de 2024, con datos de más de 25
 iniciativas asociativas del país. El informe concluye que las actuaciones de las autoridades
@@ -24,6 +25,7 @@ autoridades, las continuas barreras erigidas en el proceso electoral, de forma g
 y sistemática, obstaculizando el ejercicio de los derechos de libertad de reunión pacífica y
 de asociación, igualmente hubieran impedido calificar al proceso electoral como “libre” y
 “justo”.
+
 Sobre las situaciones documentadas y reflejadas en el informe se encuentra que antes
 del 28 de julio, durante los primeros meses del año, 25 personas fueron detenidas por
 informar, 58 sitios web y portales habían sido bloqueados para su libre acceso y se proce-
@@ -38,6 +40,7 @@ trar bienes y servicios a la campaña de Edmundo González Urrutia, mientras que
 blecimientos habrían sufrido sanciones por este motivo. Como caso emblemático durante
 este lapso se encuentra la violación del derecho al asilo de las 6 personas refugiadas en la
 sede de la embajada de Argentina en Caracas.
+
 Durante la jornada electoral del 28 de julio las organizaciones de observación ciudada-
 na registraron entre 53,8% y 65,9% de incidentes en centros electorales que retrasaron el
 proceso de votación. No obstante, el 35% de los electores esperó menos de una hora para
@@ -57,6 +60,7 @@ vinculadas a la difusión de los supuestos resultados fueron recogidas en los re
 liminares del Centro Carter y el Panel de Expertos Electorales de Naciones Unidas, los dos
 más altos entes con capacidad técnica invitadas por las autoridades para realizar observa-
 ción electoral durante los comicios.
+
 Posterior al 28 de julio la movilización popular en reacción al desconocimiento de la vo-
 luntad popular fue abordado por el gobierno mediante una combinación de métodos “du-
 ros” y “blandos”, como había diagnosticado la Misión Independiente de Determinación de
@@ -71,6 +75,7 @@ las ONG, la anulación masiva de pasaportes, despidos por razones políticas, es
 delación comunitaria a través de una aplicación tecnológica, revisión de teléfonos celulares
 en alcabalas y la divulgación de mensajes atemorizantes por parte de voceros guberna-
 mentales.
+
 Nicolás Maduro ha sido el vocero principal de las estrategias de represión, divulgadas pú-
 blicamente, incluyendo la fabricación de falsos positivos para deslegitimar las denuncias so-
 bre violaciones al derecho a la vida en el contexto de las protestas, de manera coordinada a
@@ -84,6 +89,7 @@ por lo menos 184 actuaciones de civiles armados, conocidos como “Colectivos”
 El informe incluye un reporte especial de un estado del interior del país, Yaracuy, para
 visibilizar la situación de vulneración de derechos fundamentales fuera de la región capital,
 que usualmente es la que recibe mayor atención.
+
 Entre las recomendaciones del informe, dirigidas a la comunidad internacional, se en-
 cuentran mantener los esfuerzos de mediación y presión diplomática sobre las autoridades
 venezolanas; incrementar las medidas de reconocimiento individual a los responsables de
@@ -103,12 +109,14 @@ así como experiencias de solidaridad con las organizaciones nacionales que trab
 el terreno en condiciones de mayor restricción y, finalmente, que la comunidad internacio-
 nal reconozca como interlocutor en la crisis venezolana a las víctimas de violaciones a los
 derechos humanos.
+
 “Crisis postelectoral y de Derechos Humanos 2024 en Venezuela” tiene por subtítu-
 lo “El informe negro de la dictadura 2024”, en alusión a un documento similar divulgado
 en 1952 para denunciar los excesos del régimen militar de Marcos Pérez Jiménez. “Este
 reporte es una continuación de aquellos anhelos de democracia y dignidad”, afirmaron
 los autores.
 
-
 **Créditos**
 Este informe fue realizado por Derechos Humanos de Venezuela en Movimient
+
+**Se alienta a su libre difusión**
